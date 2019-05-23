@@ -3,7 +3,7 @@ layout: post
 title: "Press M to Move Features"
 ---
 
-In cryptovoxels, anything that's not a voxel or an avatar is called a feature. The images on the wall, the big 3d text, the push buttons, particle effects. And the tool for editing features was really creaky. It was designed for laying 2d things on the walls, and until now, it hadn't really worked properly for the 3d features. Now you it works amazingly well for editing 2d and 3d features, and I added the `M` key. 
+In cryptovoxels, anything that's not a voxel or an avatar is called a feature. The images on the wall, the big 3d text, the push buttons, particle effects. And the tool for editing features was really creaky. It was designed for laying 2d things on the walls, and until now, it hadn't really worked properly for the 3d features. After todays release, it now works amazingly well for editing 2d and 3d features, and I added the `M` key. 
 
 Tap M then click on a feature to quickly move it around the world.
 
