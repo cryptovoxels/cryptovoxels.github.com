@@ -323,3 +323,8 @@ h3{
 .metadate b{
   font-family: inherit;
 }
+
+video{
+  width: 100%;
+  margin-bottom: 30px;
+}
