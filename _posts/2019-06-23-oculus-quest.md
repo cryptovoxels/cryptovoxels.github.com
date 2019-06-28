@@ -5,6 +5,8 @@ title: "Oculus Quest Support"
 
 This is pretty exciting news, Oculus Quest support just dropped. It's very beta, but it works. Put your Quest on, load `cryptovoxels.com`, then click `enter in vr`.
 
+<video src="/images/posts/oculus-quest.mov" autoplay loop muted></video>
+
 ## The quest is my #1 VR device
 
 I've got a vive, a rift, a gear vr, and the quest. And I gotta say, the quest is my favourite. It's the only one that I think about killing some time in, or if I have some downtime, it is the mosts attractive. Not being tied to a computer is amazing. And compared to the Oculus Go / GearVR, the quest is so much more comfortable it's a world apart.
