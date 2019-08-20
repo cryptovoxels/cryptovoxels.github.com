@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "A Creator Competition!"
+title: "Creator Competition"
 ---
 
 I keep putting off having a proper builders competition in Cryptovoxels, because we don’t have public build areas (yet!), so you’d have to be a land owner before you could submit something in the competition. But the prize is to win some land in Origin City - so it’s a catch 22.
 
 But then Devil came up with an awesome idea! A creators competition where you create content that shows what Cryptovoxels is, and also to create voxel models that can be used in world.
 
-# [First Cryptovoxels Creators Contest](https://medium.com/p/1fc98acfa0cb?source=linkShare-6439cdf04c7a-1566147776&_branch_match_id=691767490818818648)
+# Cryptovoxels Creators Contest
+
+Introducing the first creators contest.
 
 [![](https://miro.medium.com/max/700/1*FtgNvFme3nu6LVhLP0fQWA@2x.jpeg)](https://medium.com/p/1fc98acfa0cb?source=linkShare-6439cdf04c7a-1566147776&_branch_match_id=691767490818818648)
 
